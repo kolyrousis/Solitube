@@ -1,0 +1,459 @@
+Software License Agreement
+
+END-USER LICENSE AGREEMENT FOR N&K INSTRUMENTS SOFTWARE 
+
+IMPORTANT-READ CAREFULLY:  This N&K Software License Agreement ("NKLA") is
+a legally binding agreement between You and N&K for the N&K SOFTWARE
+PRODUCT or SOFTWARE identified above and as further defined in this NKLA. 
+
+BY PAYING THE LICENSE FEE FOR THE SOFTWARE PRODUCT  WITHOUT PROMPTLY REQUESTING
+A REFUND OF SUCH FEE OR INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE
+PRODUCT, SUCH ACTS INDICATE YOUR ACCEPTANCE OF THIS TSLA AND YOUR AGREEMENT TO
+BE BOUND BY THE TERMS AND CONDITIONS OF THIS TSLA.  IF YOU DO NOT DESIRE TO
+ACCEPT THIS TSLA OR AGREE TO THE TERMS OF THIS TSLA, PROMPTLY RETURN THE UNUSED
+SOFTWARE PRODUCT TO THE PLACE FROM WHICH YOU OBTAINED IT FOR A FULL REFUND OF
+THE LICENSE FEE.  
+
+THE SOFTWARE PRODUCT IS PROTECTED BY GREECE COPYRIGHT LAWS AND INTERNATIONAL
+COPYRIGHT TREATIES, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES.
+TECHSMITH IS AND SHALL REMAIN THE OWNER OF ALL INTELLECTUAL PROPERTY RIGHTS IN
+THE SOFTWARE. THE SOFTWARE PRODUCT IS LICENSED TO YOU ON A NON-EXCLUSIVE,
+NON-ASSIGNABLE, NON-TRANSFERABLE, LIMITED, PERSONAL BASIS, NOT SOLD.  
+
+N&K STRIVES TO PROTECT THE SECURITY AND PRIVACY OF THE USERS OF ITS
+PRODUCTS.
+
+IS INCORPORATED IN THIS TSLA BY REFERENCE.
+
+WHEN YOU USE THE SOFTWARE PRODUCT AND/OR SOFTWARE, N&K MAY COLLECT CERTAIN
+INFORMATION ABOUT YOUR COMPUTER TO FACILITATE, EVALUATE AND VERIFY YOUR USE OF THE
+SOFTWARE PRODUCT AND/OR SOFTWARE WHICH MAY BE SENT TO A N&K WEB SERVER FOR ITS
+OWN INTERNAL USE AND SHALL NOT BE SHARED WITH ANY THIRD PARTIES. THIS INFORMATION IS
+GENERALLY COLLECTED IN THE AGGREGATE FORM, WITHOUT IDENTIFYING ANY USER
+INDIVIDUALLY, ALTHOUGH IP ADDRESS, COMPUTER AND SESSION ID IN RELATION TO
+PURCHASES AND DOWNLOADS/INSTALLATIONS OF THE SOFTWARE PRODUCT AND/OR SOFTWARE MAY
+BE TRACKED AS PART OF N&K'S CUSTOMER ORDER REVIEW, STATISTICAL ANALYSIS, FRAUD
+AND PIRACY PREVENTION EFFORTS. FOR EXAMPLE, N&K MAY COLLECT INFORMATION
+SUCH AS THE NUMBER OF DOWNLOADS/INSTALLATIONS OF THE SOFTWARE PRODUCT
+AND/OR SOFTWARE FOR NONIDENTYFYING STATISTICAL ANALYSIS AND FOR IMPROVING
+THE SOFTWARE PRODUCT AND/OR SOFTWARE, PROVIDING YOU WITH A MORE RELEVANT EXPERIENCE.
+AS INDICATED ABOVE, IF YOU DO NOT DESIRE TO ACCEPT THIS TSLA OR AGREE TO THE TERMS
+OF THIS TSLA, PROMPTLY RETURN THE UNUSED SOFTWARE PRODUCT AND/OR SOFTWARE TO
+THE PLACE FROM WHICH YOU OBTAINED IT FOR A FULL REFUND OF THE LICENSE FEE.
+
+DEFINITIONS
+
+1. "Computer" means a virtual or physical computer device that accepts
+information in digital or similar form and manipulates it for specific result
+based on a sequence of instructions.  
+
+2. "Content" means any video, audio, data, music, still images, and any other
+output of the SOFTWARE PRODUCT or SOFTWARE and any video, audio, data, music,
+still images or other input into the SOFTWARE PRODUCT or SOFTWARE. 
+
+3. "Internal Network" means a private, proprietary network resource accessible
+only by employees and individual contractors (i.e., temporary employees) of a
+specific corporation or similar business entity.  Internal Network does not
+include portions of the Internet or any other network community open to the
+public, such as membership or subscription driven groups, associations and
+similar organizations.
+
+4. "Permitted Number" means one (1) unless otherwise indicated under a valid
+license (e.g., Multi User, Site, or Enterprise License) granted by N&K.
+
+5. "SOFTWARE PRODUCT or SOFTWARE" means use of a copy of computer software
+identified above and associated media and a copy of the printed materials, and
+may include "online" or electronic documentation as well as licensed third party
+Content.
+
+6 "N&K" means N&K Corporation, a Michigan corporation of 2405
+Woodlake Drive, Okemos, MI 48864.
+
+7. "Trial Version" means a version of the SOFTWARE which may have limited
+features and is limited in terms of the length of time the SOFTWARE may be used
+and will cease operating after a predetermined amount of time ("the Trial
+Period") due to an internal mechanism within the Trial Version.  The SOFTWARE
+will notify You that the SOFTWARE is in trial mode, which may include, but would
+not be limited to, watermarking. 
+
+8. "You"  means the person, company, or organization that has licensed the
+SOFTWARE PRODUCT  or SOFTWARE.
+
+1.	GRANT OF LICENSE AND RESTRICTIONS.
+
+The following section applies to all versions of the SOFTWARE PRODUCT unless the
+Help > About dialog in the SOFTWARE PRODUCT specifies a Multi-user, Site or
+Enterprise version, for example.
+
+ If You obtained the SOFTWARE and any required SOFTWARE key(s) from N&K or
+ one of its authorized licensees and as long as You comply with the terms of
+ this TSLA, N&K grants You a non-exclusive, non-transferable, limited
+ personal license to install and use the SOFTWARE PRODUCT or SOFTWARE in a
+ manner consistent with its design, documentation, and Your order. You may only
+ use the SOFTWARE according to the License ordered by You and granted by
+ N&K. N&K offers several license types to meet the needs of its
+ customers. Particular licenses are offered for the SOFTWARE PRODUCT OR SOFTWARE
+ depending on the intended use of the SOFTWARE. Your order shall designate the
+ specific application of the SOFTWARE which may include, a Multi-User License,
+ Site License, Enterprise License, or Volume Discount License, for example.  
+
+Title and intellectual property rights in and to any Content, displayed by,
+reproduced, recorded or accessed through the SOFTWARE PRODUCT or SOFTWARE,
+belongs to the respective Content owners. Such Content may be protected by
+copyright or other intellectual property laws and treaties, and may be subject
+to terms of  use of the third party providing or displaying such Content. This
+Agreement does not grant You any rights to use such Content other than as
+expressly indicated in the SOFTWARE PRODUCT, SOFTWARE, or this TSLA. The
+SOFTWARE PRODUCT or SOFTWARE may be used to reproduce or record Content so long
+as such use is limited to the reproduction of non-copyrightable Content, Content
+which You own the intellectual property rights in and to the same, or Content
+which You are authorized or legally permitted to reproduce, record or display.
+
+1.1 General Use.  You may install and use one copy of the SOFTWARE on up to the
+Permitted Number of Your compatible Computers as long as, when required by the
+SOFTWARE, You present a valid SOFTWARE key for each copy.
+
+1.2 Distribution from Server.  You may copy an image of the SOFTWARE onto file
+server(s) within Your Internal Network for the purpose of downloading and
+installing the SOFTWARE onto Computers within the same Internal Network for use
+as permitted by Section 1.1.
+
+1.3 Server Use.  You may install the SOFTWARE on Computer file server(s) within
+Your Internal Network only for use of the SOFTWARE initiated by an individual
+from a Computer within the same Internal Network as permitted by Section 1.1.
+The total number of users (not the concurrent number of users) able to use the
+SOFTWARE on such Computer file servers(s) may not exceed the Permitted Number.
+
+By way of example, the foregoing does not permit You to install or access
+(either directly or through commands, data or instructions) the SOFTWARE:  (i)
+from or to a Computer not part of Your Internal Network, (ii) for enabling web
+hosted workgroups or services available to the public, (iii) by an individual or
+entity to use, download, copy or otherwise benefit from the functionality of the
+SOFTWARE unless licensed to do so by N&K, (iv) as a component of a system,
+workflow or service accessible by more than the Permitted Number of users, or
+(v) for operations not initiated by an individual user (e.g., automated server
+processing).
+
+1.4 Portable or Home Computer Use.  Subject to the important restrictions set
+forth in Section 1.5, the primary user of the Computer on which the SOFTWARE is
+installed under Section 1.1 ("Primary User") may install a second copy of the
+SOFTWARE for his or her exclusive use on either a portable Computer or a
+Computer located at his or her home, provided that the SOFTWARE on the portable
+or home Computer is not used at the same time as the SOFTWARE on the primary
+Computer.  You may be required to contact N&K in order to make a second
+copy.
+
+1.5 Restrictions on Secondary Use by Multi User Licensees.  If the SOFTWARE was
+obtained under a N&K Multi User License Program by any licensee, the
+second copy of the SOFTWARE made under Section 1.4 must be used solely for the
+benefit and business of that Multi User Licensee. 
+
+1.6       Backup Copy.  You may make a reasonable number of backup copies of the
+SOFTWARE, provided Your backup copies are not installed or used for other than
+archival purposes.
+
+1.7	N&K  Codec and TSCC.exe. The N&K Screen Capture Codec and the
+associated install executable (TSCC.exe) may be freely distributed for the
+purpose of allowing end users to view files created with the SOFTWARE PRODUCT.
+This right applies only to the redistribution of the TSCC.exe and any other
+rights applicable to the SOFTWARE PRODUCT are preserved for the TSCC codec and
+TSCC.exe.
+
+1.8	 Integrity of 3rd Party Content and SOFTWARE.  Your use of the SOFTWARE
+PRODUCT or SOFTWARE may be impaired by digital rights management systems in
+order to protect the integrity of certain third party Content and the SOFTWARE
+PRODUCT or SOFTWARE. You may not remove or alter any trademark, trade names,
+product names, logos, copyright notices, legends, symbols, labels, or
+watermarking in the in any 3rd party Content, the  SOFTWARE  PRODUCT or
+SOFTWARE, except to the extent as expressly indicated in the 3rd party Content,
+SOFTWARE PRODUCT or SOFTWARE.
+
+ 2.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+
+2.1 	Limitations on Reverse Engineering, Decompilation, and Disassembly. You
+may not reverse engineer, decompile, translate, localize or disassemble the
+SOFTWARE PRODUCT.
+
+2.2   	Separation of Components.  The SOFTWARE PRODUCT is licensed as a single
+product.  Its component parts may not be separated for use on more than one
+computer. You may not unbundle or repackage the SOFTWARE PRODUCT for
+distribution.
+
+2.3  	 Rental.  You may not rent, license, assign, transfer, time share, host,
+lend, sublicense, distribute, or lease the SOFTWARE PRODUCT except as otherwise
+expressly provided in this TSLA.
+
+2.4   Software Transfers of Rights.  You may transfer this license in connection
+with a divesture, a merger, or consolidation, as long as You provide N&K
+with prior written assigned notice, on a form that N&K will provide You,
+that includes: (i) the order #; (ii) the quantity of licenses, if applicable,
+being transferred by product and version; (iii) the name, address and contact
+information of the transferee; (iv) any other information that N&K
+reasonably requests.
+
+For all other transfers of licenses, N&K prior written consent is
+required. No license transfer will be valid unless the transferee accepts in
+writing the applicable product use rights, use restrictions, and limitations of
+liability. Any transfer made in violation of the requirements or restrictions of
+this section will be void.
+
+You may not transfer licenses on a short term basis or transfer temporary rights
+to use products.
+
+The SOFTWARE PPRODUCT and any copies of the SOFTWARE PRODUCT or any SOFTWARE key
+or key codes related to the SOFTWARE PRODUCT and N&K trademarks may not be
+used, posted or displayed in any form or manner on any online auction sites or
+any other site without the express prior written permission of N&K.
+
+2.5   Term and Termination. The term of this TSLA granted to You for the use of
+the SOFTWARE PRODUCT is for 1 year, renewable automatically, but without
+prejudice to any other rights, N&K may terminate this TSLA if You fail to
+comply with any of the terms and conditions of this TSLA. In such event, You
+must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.
+
+2.6   Software for Windows. The SOFTWARE PRODUCT or SOFTWARE which is the
+subject matter of this TSLA is for use and/or runs on a Windows operating system
+only, and the SOFTWARE and SOFTWARE key associated with the SOFTWARE will not be
+operable on any other system.
+
+2.7   This section 2.7 and its subparagraphs apply in addition to the license
+granted in Section 1 above and solely if You have received a valid Trial Version
+of the SOFTWARE from N&K.
+
+(i) Subject to the terms and conditions of this TSLA,  N&K grants to You a
+non-exclusive license to install the Trial Version on a single computer strictly
+for Your internal evaluation and review purposes and not for production
+purposes.
+
+(ii) You shall not (a) in the aggregate install or use more than one copy of the
+Trial Version, (b) download the Trial Version under more than one username, if
+applicable, (c) alter the contents of a hard drive or computer system to enable
+the use of the Trial Version for an aggregate period in excess of the Trial
+Period for which You may evaluate the Trial Version, (d) disclose the results,
+if any, of the SOFTWARE performance benchmarks obtained using the Trial Version
+to any third party without N&K's prior written consent, (e) use the Trial
+Version for a purpose other than the sole purpose of determining whether to
+purchase a license to the SOFTWARE. Notwithstanding the foregoing, You are
+strictly prohibited from installing or using the Trial Version for any
+commercial training purposes.
+
+(iii) Your rights to install and use the Trial Version under this section 2.7.
+will immediately terminate upon the earlier of (a) the expiration of the Trial
+Period, or (b) such time that You purchase a license to the SOFTWARE PRODUCT or
+SOFTWARE. N&K reserves the right to terminate Your license to the Trial
+Version at any time in its sole discretion. To the extent that any provision in
+this section 2.7 is in conflict with any other term or conditions in this TSLA,
+this section 2.7. shall supersede such other terms and conditions with respect
+to the Trial Version only, but only to the extent necessary to resolve the
+conflict. YOU ACKNOWLEDGE THAT THE TRIAL VERSION MAY HAVE LIMITED FEATURES,
+FUNCTION FOR A LIMITED PERIOD OF TIME, HAVE OTHER LIMITATIONS NOT PRESENT IN A
+NON-TRIAL VERSION OF THE SOFTWARE. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN
+THIS TSLA, THE TRIAL VERSION IS PROVIDED TO YOU ON AN "AS IS" BASIS, AND
+N&K DISCLAIMS ANY WARRANTY OR LIABILITY OBLIGATIONS TO YOU OF ANY KIND.  
+
+You must obtain the prior written permission from N&K as to all other uses
+of the SOFTWARE that fall outside the scope of this TSLA.
+
+3.	Upgrades. If the SOFTWARE PRODUCT is an upgrade from another product,
+whether from N&K or another supplier, You may use or transfer the SOFTWARE
+PRODUCT only in conjunction with that upgraded product, unless You destroy the
+upgraded product.  If the SOFTWARE PRODUCT is an upgrade of a N&K product,
+You now may use that upgraded product only in accordance with this TSLA.  If the
+SOFTWARE PRODUCT is an upgrade of a component of a package of software programs
+that You licensed as a single product, the SOFTWARE PRODUCT may be used and
+transferred only as part of that single product package and may not be separated
+for use on more than one computer.
+
+4.	Intellectual Property Rights.  All rights, title, and interests, including,
+but not limited to, all copyrights, trade secret rights, patent and trademark
+rights in and to the SOFTWARE PRODUCT (including but not limited to any images,
+photographs, animations, video, audio, music, text, and "applets," incorporated
+into the SOFTWARE PRODUCT), the accompanying printed materials, and any copies
+of the SOFTWARE PRODUCT, are owned by and shall remain the sole property of
+N&K or its suppliers or licensors.   
+
+ 5.	Injunctive Relief. The parties agree that if You utilize or otherwise uses
+ any of the SOFTWARE PRODUCT in an unauthorized manner, or breach the remaining
+ terms and conditions of this TSLA, that such use or breach would have a
+ devastating and serious impact on N&K's continuing ability to compete
+ profitably and would, therefore, result in immediate and irreparable injury,
+ loss or damage to N&K.  The parties agree that in such event, in addition
+ to N&K's right to recover damages for a breach of this TSLA, N&K
+ would be entitled to obtain a temporary restraining order or a preliminary
+ injunction from a court of competent jurisdiction to prevent You, Your
+ employees, agents, consultants, or independent contractors from engaging in any
+ further use of the SOFTWARE PRODUCT or the continued breach of the remaining
+ terms and conditions of this TSLA.
+
+ 6.	Dual-Media Software. You may receive the SOFTWARE PRODUCT in  more than one
+ medium.  Regardless of the type or size of medium You receive, You may use only
+ one medium that is appropriate for Your single computer. You  may not use or
+ install the other medium on another computer other than as expressly stated in
+ the TSLA.  You may not loan, rent, lease, license or otherwise transfer the
+ other medium to another user.
+
+ 7.	U.S. Government Restricted Rights. The SOFTWARE PRODUCT and documentation
+ are provided with RESTRICTED RIGHTS.  Use, duplication, or disclosure by the
+ government is subject to restrictions as set forth in subparagraph (c) (1) (ii)
+ of the Rights in Technical Data and Computer Software clause at DFARS
+ 252.227-7013 or Rights at 48 CFR 52.227-19, as applicable.  Manufacturer is:
+ N&K Corporation PO Box 26095 Lansing,  MI  48909-6095. You acknowledge
+ that the SOFTWARE PRODUCT may not be downloaded or otherwise exported or
+ re-exported: (i) into (or the national resident of) any country to which the
+ U.S. has embargoed goods; or (ii) to anyone on the U.S. Treasury Department's
+ list of Specially Designated Nationals or the U.S Commerce Department's Table
+ of Denial Orders. By using the SOFTWARE PRODUCT, You are agreeing to the
+ foregoing and are representing and warranting that You are not located in or
+ under the control of, a national resident of any such country or on any such
+ list.
+
+8.	Miscellaneous. This TSLA is governed by the laws of the State of Michigan,
+U.S.A to the extent that U.S. federal laws are not applicable, without regard to
+their conflicts of law principles. You agree to the exclusive jurisdiction of
+the Courts of the State of Michigan, U.S.A. and the United States district court
+located in Ingham County, Michigan U.S.A. This Agreement has been prepared in
+the English language and such version shall be controlling in all respects and
+any non English version of this Agreement is solely for accommodation purposes.
+The parties to this Agreement waive personal service of any and all process upon
+them and consent that all such service of process be made by registered mail and
+shall be deemed to be completed five (5) business days after the same shall have
+been deposited in the United States mail, postage prepaid.  You waive any
+objection based on forum non conveniens and any objection to venue of any action
+instituted under this TSLA by N&K in any jurisdiction. This TSLA shall not
+be governed by the United Nations' Convention on Contracts for the International
+Sale of Goods, the application of which is expressly excluded.
+
+9.	Limited Warranty. N&K warrants that (a) the SOFTWARE PRODUCT will
+perform substantially in accordance with the accompanying written materials for
+a period of ninety (90) days from the date of receipt, and (b) any hardware
+accompanying the SOFTWARE PRODUCT will be free from defects in materials and
+workmanship under normal use and service for a period of one (1) year from date
+of receipt.  Some states and jurisdictions do not allow limitations on duration
+of an implied warranty, so the above limitation may not apply to You.  To the
+extent allowed by applicable law, implied warranties on the SOFTWARE PRODUCT and
+hardware, if any, are limited to ninety (90) days and one year, respectively.
+
+10.	Customer Remedies.  N&K's and its suppliers' or licensor's entire
+liability and Your exclusive remedy shall be, at N&K's option, either (a)
+return the license fee paid, or (b) repair or replacement of the SOFTWARE
+PRODUCT or hardware that does not meet N&K's Limited Warranty and which is
+returned to N&K with a copy of Your receipt. This Limited Warranty is void
+if failure of the SOFTWARE PRODUCT or hardware has resulted from accident,
+abuse, or misapplication.  Any replacement SOFTWRAE PRODUCT or hardware will be
+warranted for the remainder of the original warranty period or thirty (30) days,
+whichever is longer.  Outside the United States, neither these remedies nor any
+product support services offered by N&K are available without proof of
+purchase from an authorized international source.
+
+11.	NO OTHER WARRANTIES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+N&K AND ITS SUPPLIERS, AND LICENSORS DISCLAIM ALL OTHER WARRANTIES, EITHER
+EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, QUIT
+ENJOYMENT, NON-INFRINGEMENT OF THIRD PARTY RIGHTS WITH REGARD TO THE SOFTWARE
+PRODUCT, AND ANY ACCOMPANYING HARDWARE.  THIS LIMITED WARRANTY GIVES YOU
+SPECIFIC LEGAL RIGHTS.  YOU MAY HAVE OTHER RIGHTS, WHICH VARY FROM
+STATE/JURISDICTION TO STATE/JURISDICTION.
+
+12.	NO LIABILITY FOR CONSEQUENTIAL DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT SHALL N&K OR ITS SUPPLIERS, OR LICENSORS, BE
+LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS,
+BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY
+LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT, EVEN
+IF N&K HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  BECAUSE SOME
+STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY
+FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO
+YOU.
+
+13. Content and Indemnity. You acknowledge and understand the Content resulting
+from the use of the SOFTWARE is Your sole responsibility and Your use and
+distribution of the Content is at Your sole discretion and risk. You shall be
+solely responsible for any claims or causes of action that may arise in
+connection with such use and distribution of the Content. You further agree to
+defend, indemnify and hold N&K, its affiliates, subsidiaries, officers,
+directors, employees, consultants, agents, suppliers, licensors and resellers
+from any and all third party claims, whether foreign or domestic, and any and
+all liability, damages and/or costs including, but not limited to, reasonable
+attorney fees, arising from Your use of the SOFTWARE and  the Content and the
+distribution of the same, Your violation of this TSLA, or the infringement or
+violation by You or any other user of the SOFTWARE , of any agreement of any
+kind or any intellectual property or other right, including but not limited to,
+patent, trademark, copyright or trade secret rights of any person or entity or
+any claims that may or are alleged to result in the invasion of privacy,
+slander, libel or for infringement on a persons rights of publicity due to the
+publication or distribution of the Content.
+
+14.	Survival. The restrictions and obligations as contained in this TSLA which
+You have voluntarily agreed to shall survive any expiration, termination or
+cancellation of this TSLA, and shall continue and remain in effect to bind You,
+and Your employees, agents, successors, heirs and assigns.
+
+15.	Integration. This TSLA and the applicable License order sets forth the
+entire Agreement and understanding between the parties as to the subject matter
+of this Agreement and supersedes all prior discussions, representations, and
+amendments of understandings of every kind and nature between them.
+
+16.	Amendments. Except as otherwise provided in this TSLA, this Agreement may
+not be amended, altered, or any of its provisions waived on behalf of either
+party, except in writing executed by both parties' duly authorized agent.
+
+17.	Assignability. Except as otherwise expressly provided under this TSLA, this
+agreement and the rights and duties under this Agreement may not be assigned by
+You without the prior written consent of N&K.
+
+18.	Benefit. This TSLA shall be binding upon and inure to the benefit of
+N&K and its successors and assigns.
+
+19.	Counterparts. This TSLA may be executed and/or accepted in one or more
+counterparts, each of which shall be enforceable against the party actually
+executing and/or accepting the counterparts, and all of which together shall
+constitute one instrument.
+
+20.	Captions.  Captions contained in this Agreement are inserted for reference
+and in no way define, limit, extend or describe the scope of the TSLA or intent
+of any provision in the TSLA.
+
+21.	Severability.  If any provision of this TSLA becomes or is declared by a
+court of competent jurisdiction to be illegal, unenforceable, or void, this TSLA
+shall continue in full force and effect without said provision; provided,
+however, that no such severability shall be effective if it materially changes
+the economic benefit of the TSLA to the other party.
+
+22.	Authority to Execute and Accept. You warrant and represent to N&K that
+this TSLA shall be binding upon You, and that the individual agreeing to be
+bound under the terms and conditions of this TSLA is authorized or has been
+empowered to do so.
+
+23. 	Third Party Beneficiary. You acknowledge and agree that N&K's
+suppliers and licensors (and/or N&K if You obtained the SOFTWARE PRODUCT
+from any party other than N&K) are third party beneficiaries of this
+Agreement, with the right to enforce the obligations set forth herein with
+regard to the respective technology or Content of such suppliers, licensors
+and/or N&K.
+
+24.	 Third party Acknowledgement and Terms.  The SOFTWARE PRODUCT or SOFTWARE
+may use or include third party components or Content and other copyrighted
+material. Acknowledgments, licensing terms and additional disclaimers for such
+components, Content, or materials are contained in the "online" electronic
+documentation for the SOFTWARE PRODUCT or SOFTWARE or may otherwise accompany
+the same, and Your use of such components, Content or material is governed by
+their respective terms. 
+
+25.  	Changes to a Site or Enterprise Due to Acquisitions, Divestures and
+Mergers. If the number of qualified desktops or seats changes by more than 10%
+as a result of an acquisition of an entity or an operating division, (ii) a
+divesture of an affiliate or an operating division; (iii) or a merger, N&K
+will work with the You in good faith to determine how to accommodate the changed
+circumstances in the context of a Site License, for example. If You acquire or
+merge with an organization with an existing "Site License" N&K will work
+with the surviving organization in good faith to accommodate its changed
+circumstances in the context of this Agreement.
+
+AS STATED ABOVE, PAYING THE LICENSE FEE FOR THE SOFTWARE PRODUCT WITHOUT
+PROMPTLY REQUESTING A REFUND OF SUCH FEE OR INSTALLING, COPYING, OR OTHERWISE
+USING THE SOFTWARE PRODUCT, INDICATES YOUR ACCEPTANCE OF THIS TSLA AND YOUR
+AGREEMENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS TSLA.
+
+N&K are registered trademarks of N&K Corporation
+in the Greece and/or other countries. All other trademarks are the
+property of their respective owners.

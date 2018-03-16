@@ -1,0 +1,97 @@
+Beta v1.00 build 187 - 16/01/2017
+	+ Drop Down menu animation added (Slides in & out from right side)
+	+ Transformers calibration across frequency spectrum
+	+ Volrage Rail knob added (controls the peak to peak voltage headroom)
+	+ Diode selector added (Choose between Zener & MosFET diodes clipping distortion)
+	+ Transients switch added (Fast or Slow transient response)
+	+ Capacitor switch added (Choose between poly-propylenium or tantalum capacitors)
+	+ Circuit switch added (Choose between solid state circuit or Discrete)
+	+ VU meter removed
+	+ LCD monitor added (Shows the diference between Output-Input in decibels)
+	+ Oversampling internal processing selector added (2x,4x)
+	+ PPM updated (monitor input or output level via switch posistion)
+	+ License file location bug fixed	
+	+ Dithering output process added (24,22,20,18,16,12,8,5,4bits and Normal,Optimized,Shaped profiles)
+	+ User Interface settings options updated
+	+ Ini file updated
+
+Beta v1.00 build 133 - October 04 2017
+	+ Drop Down menu updated
+	+ Minor bug fixes as always..
+
+Beta v1.00 build 130 - October 02 2017
+	+ Drop Down menu updated
+	+ Status bar information updated
+	+ Quick Reference Manual updated
+	+ Fixed a bug having DUAL & FAT switches on the audio goes +6db!
+
+Beta v1.00 build 129 - October 01 2017
+	+ GUI Updated. New drop down menu. Find it at the top right corner.
+	+ IIR filter files updated for better sound quality.
+	+ Re calibrated IIR gain stage.
+	+ Analog switch now is "PREAMP" ~ "CONSOLE" mode. Read the description for more info at the status bar.
+	+ New check button for enabling or disabling the delay compensantion.
+	+ Delay Compensantion now displays milliseconds for true measurements.
+	+ FAT process now includes a more reliable peak transient fattener.
+
+Beta v1.00 build 127 - September 30 2017
+	+ FAT switch: Added a dynamic process that gives you a more "fat" sound.
+	+ GUI updated
+	+ Minor bug fixes as always..
+	+ CPU Utilization is now ~1.1%
+
+Beta v1.00 build 126 - September 30 2017
+	+ Analog switch function now controls the new amazing soundstage and tonality.
+	+ Re-calibrated the Analog process.
+	+ Re-calibrated Color process.
+	+ Re-named Color selections into Greek letters.
+	+ GUI Update** New grapgics and buttons.
+	+ Labels knobs updated
+	+ CPU Utilization is now ~1.4%
+	+ Minor bug fixes as always..
+
+Beta v1.00 build 125 - September 29 2017
+	+ NEW!! An amazing update comes in this build, the soundstage and tonality is overkill.
+The image is much more open, you can hear the depth of transients.
+	+ Added a new function called "COLOR" knob. Switch between different capacitors.
+	+ Added a new function called "HPF" knob. You can scale down the distortion of lows trimming them.
+	+ Analog switch re-calibrated.
+	+ Added a new function called "TRANSFORMER" knob. Now you can switch between different cores types.
+	+ GUI: Updated
+	+ System.ini: Some variables has been removed.
+	+ Re-calibrated IIR gains.
+
+Beta v1.00 build 117 - September 26 2017
+	+ Re-Calibrated the Console Circuit. Now has that glueiness with more headroom when the saturatiob knob is full.
+	+ System.ini: New entries variables to manipulate the core system of CT-S2.
+	+ GUI: Minor changes in texts and alignments.
+	+ FAT: Factory setting now is 0.5 intensity in the system.ini and that means that the 2nd harmonic is more present at ~-40/-20dB in contenx with saturation intensity.
+	+ Analog noise circuit calibrated to be at -120dBFS by default when the CT-S2 in on power.
+
+Beta v1.00 build 116 - September 25 2017
+	+ Re-Calibrated all the modules (Level,Focus,Saturation,Impendance) into a stepped trimming/gain
+to fine adjust the overall RMS vs PEAK behavior.
+	+ Impendance now has true analog behavior tonallity. Mic is more silk at the top and beeffy at lows
+and Inst(rument) has more clarity at the top.
+	+ Transformer models re-texted so now you know what transformer core you select.
+	+ Manual layer and contents fixed
+	+ Settings: I/O Compensantion button added to compensate the gain of the input Level from the output.
+PS (going the Level knob above 7~8dB you start to have more headroom and open sound)
+	+ Settings: User Interface buttons now saves & loads automatically the state of the buttons after load.
+	+ Midi Controller now saves & loads automatically the state of the selected input controller after load.
+	+ Level knob now is in stepped mode (25 steps)
+	+ Gain knob now is in stepped mode (25 steps)
+	+ Power switch: Enable/Disable now has an 25ms fade in / fade out behavior for optimal and smooth
+transistion between Dry & Wet signal.
+	+ Out / VU Switch: now saves & loads automatically the switch state selection after load.
+
+Beta v1.00 build 100 - September 18 2017
+	+ Saturation: New Optimized encoder. Now any 12 stages has an array calibrated internaly +/-0.01dB
+	+ Focus: Added new focus knob tamming the tone of the saturation of transformer.
+	+ Focus: Added calibration page equalizer. Access via holding down the combination keys (Ctrl+Shift+C)
+	+ System.ini: Added new variables to calibrate.
+	+ Settings page: Added buttons for system.ini file, iir reloading, view folder, clear stream buffers cache.
+	+ System.ini: Access calibration settings in front panel via holding down the combination keys (Ctrl+Shift+D)
+	+ Switch Push: FAT adds 2nd Harmonic at -40dB
+	+ Switch Analog: Trimmed down the internal gain at -18dB
+	+ Settings page: Added button to custom set the license file location.
