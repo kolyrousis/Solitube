@@ -1,4 +1,4 @@
-
+ and
 # Solitube
 Audio Plugin Software
 
@@ -14,6 +14,5 @@ from mild coloration to full-on saturation and distortion.
 The "Solitube" adds real analog preamp tone to any track or mix, and even create rich-sounding distortion effects.
 
 In Depth:
-"Solitube " emulates as real as possible all the characteristics of the Transformer. 
-- Aspects like the magnetic core materials, the hysteris magnetic flux, the frequency repsonce, the phase responce, the transient responce, 
-the Core Loss, the Aliasing resonance, the crosstalk between circuits, the analog noise from the power stage de-coupling, the Harmonic Distorion with Even and Odd harmonics comming to your ears as you push further the Drive knob of the Transformer and many many more other aspects.
+"Solitube " emulates as real as possible all the characteristics of the Transformer and Triode Tube. 
+Aspects like the magnetic core materials, the hysteris magnetic flux, the frequency repsonce, the phase responce, the transient responce, the Core Loss, the Aliasing resonance, the crosstalk between circuits, the analog noise from the power stage de-coupling, the Harmonic Distorion with Even and Odd harmonics comming to your ears as you push further the Drive knob of the Transformer and many many more other aspects.
