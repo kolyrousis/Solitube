@@ -1,4 +1,4 @@
-Beta v0 build 404 - 16/03/2018
+Beta v0 build 406 - 16/03/2018
 	+ Transformer and triode tube calibration across frequency spectrum
 	+ License file location and trial bug fixed	
 	+ User Interface settings options updated
