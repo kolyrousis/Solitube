@@ -1,4 +1,3 @@
- and
 # Solitube
 Audio Plugin Software
 
